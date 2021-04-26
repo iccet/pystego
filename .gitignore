@@ -3,3 +3,7 @@
 __pycache__
 Testing
 dist
+
+venv
+*build*
+.idea

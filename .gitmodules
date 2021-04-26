@@ -1,0 +1,4 @@
+[submodule "lib/stego"]
+	path = lib/stego
+	url = https://github.com/iccet/stego-lib.git
+	branch = dev
